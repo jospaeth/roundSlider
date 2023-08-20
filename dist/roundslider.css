@@ -2,7 +2,7 @@
 * round-slider v2.0.0-alpha
 *
 * @website http://roundsliderui.com/
-* @copyright (c) 2015-2022 Soundar
+* @copyright (c) 2015-2023 Soundar
 * @license MIT
 */
 
